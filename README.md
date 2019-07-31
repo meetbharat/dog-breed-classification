@@ -10,7 +10,7 @@
 Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 
-Medium[https://medium.com/@imBharatMishra/dog-breed-classification-with-keras-848b9b1525c1] Blog to follow this project. 
+[Medium](https://medium.com/@imBharatMishra/dog-breed-classification-with-keras-848b9b1525c1) Blog to follow this project. 
 
 ![Sample Output][image1]
 
